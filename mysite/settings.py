@@ -25,7 +25,7 @@ SECRET_KEY = 'kw$k4_uiu5xf5lxyqe6ctc_=_^fz!@v@)-l39pilcyb%of0haa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [tankyz.pythonanywhere.com]
 
 
 # Application definition
